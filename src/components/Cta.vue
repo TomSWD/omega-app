@@ -53,7 +53,6 @@ export default {
   margin-top: 30px;
   gap: 18px;
 }
-
 @media (max-width: 465px) {
   .cta__container {
     margin-top: 20px;
