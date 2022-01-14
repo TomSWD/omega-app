@@ -1,0 +1,45 @@
+body {
+  font-family: Circular Std Book;
+  font-size: 16px;
+  font-weight: 450;
+  height: 100%;
+  width: 100%;
+  background-color: #F2F2F2;
+}
+
+/* .container {
+  width: 100%;
+  max-width: 1110px;
+  margin: 0 auto;
+} */
+
+path {
+  fill: currentColor;
+}
+
+/* .header {
+  display: flex;
+  justify-content: space-between;
+} */
+a {
+  text-decoration: none;
+  color: currentColor;
+}
+h2 {
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 70px;
+  letter-spacing: -1.8px;
+}
+p{
+  color: #696871;
+  font-size: 21px;
+  font-weight: 450;
+  line-height: 39px;
+  letter-spacing: -.7px;
+  margin-top: 23px;
+}
+img{
+  max-width: 100%;
+  height: auto;
+}
